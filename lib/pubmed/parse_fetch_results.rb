@@ -67,6 +67,7 @@ module Pubmed
 
     def article_is_review?(article)
       publication_types = article['PublicationTypeList'] && article['PublicationTypeList']['PublicationType']
+      publication_types = [publication_types] unless publication_types.is_a?(Array)
       publication_types.present? && publication_types.any? { |publication_type| publication_type == 'Review' } # I want a false value, not a nil value
     end
 

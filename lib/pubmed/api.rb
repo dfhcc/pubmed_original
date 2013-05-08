@@ -21,9 +21,6 @@ module Pubmed
   end
 
   module API
-
-    require 'nokogiri'
-
     extend ParseFetchResults
     extend Retryable
 
