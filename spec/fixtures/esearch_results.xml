@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD eSearchResult, 11 May 2002//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSearch_020511.dtd">
+<eSearchResult><Count>8142</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>23650637</Id>
+<Id>23645694</Id>
+<Id>23642732</Id>
+<Id>23637409</Id>
+<Id>23637325</Id>
+<Id>23633751</Id>
+<Id>23629636</Id>
+<Id>23625958</Id>
+<Id>23623818</Id>
+<Id>23623630</Id>
+<Id>23620921</Id>
+<Id>23620420</Id>
+<Id>23618039</Id>
+<Id>23616119</Id>
+<Id>23604006</Id>
+<Id>23603165</Id>
+<Id>23602457</Id>
+<Id>23595785</Id>
+<Id>23595007</Id>
+<Id>23594619</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>freedman[All Fields]</Term>    <Field>All Fields</Field>    <Count>8142</Count>    <Explode>Y</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>freedman[All Fields]</QueryTranslation></eSearchResult>

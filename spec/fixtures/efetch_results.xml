@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">23645694</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>5</Month>
+            <Day>6</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1592-8721</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                        <Day>3</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Haematologica</Title>
+                <ISOAbbreviation>Haematologica</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A phase I study of escalated dose subcutaneous alemtuzumab given weekly with rituximab in relapsed chronic lymphocytic leukemia / small lymphocytic lymphoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This study assessed the safety and preliminary efficacy of escalated dose subcutaneous alemtuzumab in combination with rituximab in chronic lymphocytic leukemia. Twenty-eight patients with relapsed refractory chronic lymphocytic leukemia were treated on four dosing cohorts of weekly rituximab at 375 mg/m2 and alemtuzumab doses that started at 30 mg three times per week and escalated to weekly dosing over four weeks, culminating with 90 mg weekly. One dose limiting toxicity of a rituximab infusion reaction was seen on cohort 2, but the regimen was otherwise well tolerated without evidence of differential toxicity by cohort. The overall response rate by National Cancer Institute-Working Group criteria was 61%, and the rate of complete bone marrow response was 43%, most of whom were negative for minimal residual disease. The addition of CT scan evaluation per International Workshop on Chronic Lymphocytic Leukemia 2008 criteria reduced the overall response rate to 14%. Median overall survival was 35 months, with twelve patients able to proceed to stem cell transplantation. Pharmacokinetic studies showed that chronic lymphocytic leukemia involving &gt;80% of the bone marrow at study start was associated with lower trough concentrations of alemtuzumab and rituximab, and that higher trough serum concentrations of alemtuzumab were associated with complete bone marrow clearance. We conclude that escalated subcutaneous doses of alemtuzumab given weekly are well-tolerated and result in excellent bone marrow clearance of chronic lymphocytic leukemia, facilitating patients proceeding to stem cell transplantation.</AbstractText>
+            </Abstract>
+            <Affiliation>USA;</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Brown</LastName>
+                    <ForeName>Jennifer R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author>
+                    <LastName>Messmer</LastName>
+                    <ForeName>Bradley T</ForeName>
+                    <Initials>BT</Initials>
+                </Author>
+                <Author>
+                    <LastName>Werner</LastName>
+                    <ForeName>Lillian</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author>
+                    <LastName>Davids</LastName>
+                    <ForeName>Matthew S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author>
+                    <LastName>Mikler</LastName>
+                    <ForeName>Evgeny</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author>
+                    <LastName>Supko</LastName>
+                    <ForeName>Jeffrey G</ForeName>
+                    <Initials>JG</Initials>
+                </Author>
+                <Author>
+                    <LastName>Fisher</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author>
+                    <LastName>Lacasce</LastName>
+                    <ForeName>Ann S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author>
+                    <LastName>Armand</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author>
+                    <LastName>Jacobsen</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author>
+                    <LastName>Dalton</LastName>
+                    <ForeName>Virginia</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author>
+                    <LastName>Tesar</LastName>
+                    <ForeName>Bethany</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author>
+                    <LastName>Fernandes</LastName>
+                    <ForeName>Stacey M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author>
+                    <LastName>McDonough</LastName>
+                    <ForeName>Sean</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author>
+                    <LastName>Ritz</LastName>
+                    <ForeName>Jerome</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author>
+                    <LastName>Rassenti</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author>
+                    <LastName>Kipps</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+                <Author>
+                    <LastName>Neuberg</LastName>
+                    <ForeName>Donna</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author>
+                    <LastName>Freedman</LastName>
+                    <ForeName>Arnold S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Haematologica</MedlineTA>
+            <NlmUniqueID>0417435</NlmUniqueID>
+            <ISSNLinking>0390-6078</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alemtuzumab</Keyword>
+            <Keyword MajorTopicYN="N">Chronic Lymphocytic Leukemia</Keyword>
+            <Keyword MajorTopicYN="N">Pharmacokinetics</Keyword>
+            <Keyword MajorTopicYN="N">Phase I-III Trials</Keyword>
+            <Keyword MajorTopicYN="N">Rituximab</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">haematol.2013.086207</ArticleId>
+            <ArticleId IdType="doi">10.3324/haematol.2013.086207</ArticleId>
+            <ArticleId IdType="pubmed">23645694</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">23642732</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>5</Month>
+            <Day>6</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1484</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Atherosclerosis</Title>
+                <ISOAbbreviation>Atherosclerosis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of SNPs in the UGT1A gene cluster with total bilirubin and mortality in the Diabetes Heart Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">S0021-9150(13)00248-7</ELocationID>
+            <ELocationID EIdType="doi">10.1016/j.atherosclerosis.2013.04.008</ELocationID>
+            <Abstract>
+                <AbstractText>OBJECTIVE: A negative relationship between total bilirubin concentration (TBili) and CVD risk has been documented in a series of epidemiological studies. In addition, TBili is thought to be under strong genetic regulation via the UGT1A gene family, suggesting it may be a heritable CVD risk factor. However, few studies directly relate TBili-associated UGT1A variants to CVD severity or outcome. This study replicated the genetic association for TBili in the Diabetes Heart Study (DHS), and examined the relationships of TBili-associated SNPs with measures of subclinical CVD and mortality. METHODS: This investigation included 1220 self-described European American (EA) individuals from the DHS, a family-based study examining risk for macrovascular complications in type 2 diabetes (T2D). Genetic associations with TBili were examined using the Affymetrix Genome-wide Human SNP Array 5.0 and the Illumina Infinium Human Exome beadchip v1.0. Subsequent analyses assessed the relationships of the top TBili-associated SNPs with measures of vascular calcified plaque and mortality. RESULTS: A genome-wide association study detected 18 SNPs within the UGT1A gene family associated with TBili at p &lt; 5 × 10(-8). The top hit was rs887829 (p = 8.67 × 10(-20)). There was no compelling evidence of association between the top TBili-associated SNPs and vascular calcified plaque (p = 0.05-0.88). There was, however, evidence of association with all-cause mortality (p = 0.0004-0.06), the top hit being rs2741034. CONCLUSION: These findings support a potential role for UGT1A genetic variants in risk for mortality in T2D. Further quantification of the extent of CVD risk conferred by UGT1A gene family variants in a high risk cohort with T2D is still required.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <Affiliation>Center for Genomics and Personalized Medicine Research, Wake Forest School of Medicine, Winston-Salem, NC, USA; Center for Diabetes Research, Wake Forest School of Medicine, Winston-Salem, NC, USA; Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC, USA. Electronic address: dbowden@wakehealth.edu.</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Cox</LastName>
+                    <ForeName>Amanda J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author>
+                    <LastName>Ng</LastName>
+                    <ForeName>Maggie C-Y</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author>
+                    <LastName>Xu</LastName>
+                    <ForeName>Jianzhao</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author>
+                    <LastName>Langefeld</LastName>
+                    <ForeName>Carl D</ForeName>
+                    <Initials>CD</Initials>
+                </Author>
+                <Author>
+                    <LastName>Koch</LastName>
+                    <ForeName>Kenneth L</ForeName>
+                    <Initials>KL</Initials>
+                </Author>
+                <Author>
+                    <LastName>Dawson</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author>
+                    <LastName>Carr</LastName>
+                    <ForeName>J Jeffrey</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author>
+                    <LastName>Freedman</LastName>
+                    <ForeName>Barry I</ForeName>
+                    <Initials>BI</Initials>
+                </Author>
+                <Author>
+                    <LastName>Hsu</LastName>
+                    <ForeName>Fang-Chi</ForeName>
+                    <Initials>FC</Initials>
+                </Author>
+                <Author>
+                    <LastName>Bowden</LastName>
+                    <ForeName>Donald W</ForeName>
+                    <Initials>DW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Atherosclerosis</MedlineTA>
+            <NlmUniqueID>0242543</NlmUniqueID>
+            <ISSNLinking>0021-9150</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0021-9150(13)00248-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.atherosclerosis.2013.04.008</ArticleId>
+            <ArticleId IdType="pubmed">23642732</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
